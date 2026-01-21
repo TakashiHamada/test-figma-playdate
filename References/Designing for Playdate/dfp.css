@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+@import url('../Inside Playdate/adoc.css');
+
+img
+{
+	width: 400px;
+	max-width: 100%;
+	margin-bottom: 1em;
+}
+
+.paragraph .title /* caption */
+{
+	margin-top: -1em;
+	margin-bottom: 1em;
+}
+
+summary.title
+{
+	color: inherit;
+}
+
+summary.title:focus
+{
+	outline: 0;
+}
+
+details>.content
+{
+	margin: 1em auto;
+}
