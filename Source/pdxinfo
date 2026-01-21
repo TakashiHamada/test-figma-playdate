@@ -1,0 +1,6 @@
+name=Test Figma Playdate
+author=Your Name
+description=Figma to Playdate graphics test
+bundleID=com.example.testfigmaplaydate
+version=1.0.0
+buildNumber=1
